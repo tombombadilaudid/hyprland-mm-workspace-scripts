@@ -1,0 +1,23 @@
+2025-01-16 23:05:07.939 - Creating workspace [2] on main monitor (DP-1).
+2025-01-16 23:05:08.073 - ok
+2025-01-16 23:05:08.074 - Sleeping for 10 milliseconds.
+2025-01-16 23:05:08.088 - Creating workspace [3] on main monitor (DP-1).
+2025-01-16 23:05:08.095 - ok
+2025-01-16 23:05:08.096 - Sleeping for 10 milliseconds.
+2025-01-16 23:05:08.107 - Moving back to workspace [1] (default) on main monitor (DP-1).
+2025-01-16 23:05:08.114 - ok
+2025-01-16 23:05:08.115 - Sleeping for 10 milliseconds.
+2025-01-16 23:05:08.129 - Activating top monitor (DP-2).
+2025-01-16 23:05:08.187 - Sleeping for 100 milliseconds.
+2025-01-16 23:05:08.288 - Creating workspace [5] on top monitor (DP-2).
+2025-01-16 23:05:08.494 - ok
+2025-01-16 23:05:08.495 - Sleeping for 10 milliseconds.
+2025-01-16 23:05:08.506 - Creating workspace [6] on top monitor (DP-2).
+2025-01-16 23:05:08.511 - ok
+2025-01-16 23:05:08.511 - Sleeping for 10 milliseconds.
+2025-01-16 23:05:08.523 - Moving back to workspace [4] (default) on top monitor (DP-2).
+2025-01-16 23:05:08.528 - ok
+2025-01-16 23:05:08.528 - Sleeping for 10 milliseconds.
+2025-01-16 23:05:08.540 - Returning to workspace [1] (default) on main monitor (DP-1).
+2025-01-16 23:05:08.547 - ok
+2025-01-16 23:05:08.548 - Startup script completed successfully.

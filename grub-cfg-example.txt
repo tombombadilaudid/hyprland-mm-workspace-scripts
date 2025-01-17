@@ -1,0 +1,1 @@
+	linux	/vmlinuz-linux root=UUID=6c0219bd-d6f5-4c53-aebe-ec9a4572a80f rw rootflags=subvol=@ zswap.enabled=0 rootfstype=btrfs loglevel=3 video=DP-2:d video=HDMI-A-1:d video=DP-3:d quiet
